@@ -1,0 +1,303 @@
+[{
+  "_id": {
+    "$oid": "6720cf6c94250f46630a6d3a"
+  },
+  "id": 2,
+  "nombreSuperheroe": "Batman",
+  "nombreReal": "Bruce Wayne",
+  "edad": 35,
+  "planetaOrigen": "Tierra",
+  "debilidad": "No tiene poderes sobrehumanos",
+  "poderes": [
+    "Inteligencia avanzada",
+    "Maestro en artes marciales",
+    "Tecnología avanzada"
+  ],
+  "aliados": [
+    "Robin",
+    "Alfred"
+  ],
+  "enemigos": [
+    "Joker",
+    "Penguin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720cf6c94250f46630a6d3b"
+  },
+  "id": 3,
+  "nombreSuperheroe": "Wonder Woman",
+  "nombreReal": "Diana Prince",
+  "edad": 3000,
+  "planetaOrigen": "Themyscira",
+  "debilidad": "Desconfianza",
+  "poderes": [
+    "Super fuerza",
+    "Vuelo",
+    "Velocidad sobrehumana"
+  ],
+  "aliados": [
+    "Superman",
+    "Batman"
+  ],
+  "enemigos": [
+    "Ares",
+    "Circe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720cf6c94250f46630a6d3c"
+  },
+  "id": 4,
+  "nombreSuperheroe": "La Avispa",
+  "nombreReal": "Janet Van Dyne",
+  "edad": 38,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control mental",
+  "poderes": [
+    "Manipulación de su tamaño corporal",
+    "Rayos de energía eléctrica",
+    "Control telepático"
+  ],
+  "aliados": [
+    "Ironman",
+    "Spiderman",
+    "Ant-Man"
+  ],
+  "enemigos": [
+    "Turbellino"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720cf6c94250f46630a6d3d"
+  },
+  "id": 5,
+  "nombreSuperheroe": "Hulk",
+  "nombreReal": "Bruce Banner",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control mental",
+  "poderes": [
+    "Super fuerza",
+    "Regeneración"
+  ],
+  "aliados": [
+    "Thor",
+    "Ironman"
+  ],
+  "enemigos": [
+    "Abominación"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720cf6c94250f46630a6d3e"
+  },
+  "id": 6,
+  "nombreSuperheroe": "Nombre del Superhéroe",
+  "poderes": [
+    "Poder 1",
+    "Poder 2"
+  ],
+  "edad": 30,
+  "universo": "Marvel",
+  "planetaOrigen": "Tierra"
+},
+{
+  "_id": {
+    "$oid": "6720cf6c94250f46630a6d3f"
+  },
+  "id": 7,
+  "nombreSuperheroe": "Nombre del Superhéroe",
+  "poderes": [
+    "Poder 1",
+    "Poder 2"
+  ],
+  "edad": 30,
+  "universo": "Marvel",
+  "planetaOrigen": "Tierra"
+},
+{
+  "_id": {
+    "$oid": "6720cf6c94250f46630a6d40"
+  },
+  "id": 8,
+  "nombreSuperheroe": "Nombre del Superhéroe",
+  "poderes": [
+    "Poder 1",
+    "Poder 2"
+  ],
+  "edad": 30,
+  "universo": "Marvel",
+  "planetaOrigen": "Tierra"
+},
+{
+  "_id": {
+    "$oid": "6720cf6c94250f46630a6d41"
+  },
+  "id": 9,
+  "nombreSuperheroe": "Serpiente-asesina",
+  "edad": 38,
+  "planetaOrigen": "Tierra"
+},
+{
+  "_id": {
+    "$oid": "6720da9894250f46630a6d46"
+  },
+  "id": 2,
+  "nombreSuperheroe": "Batman",
+  "nombreReal": "Bruce Wayne",
+  "edad": 35,
+  "planetaOrigen": "Tierra",
+  "debilidad": "No tiene poderes sobrehumanos",
+  "poderes": [
+    "Inteligencia avanzada",
+    "Maestro en artes marciales",
+    "Tecnología avanzada"
+  ],
+  "aliados": [
+    "Robin",
+    "Alfred"
+  ],
+  "enemigos": [
+    "Joker",
+    "Penguin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720da9894250f46630a6d47"
+  },
+  "id": 3,
+  "nombreSuperheroe": "Wonder Woman",
+  "nombreReal": "Diana Prince",
+  "edad": 3000,
+  "planetaOrigen": "Themyscira",
+  "debilidad": "Desconfianza",
+  "poderes": [
+    "Super fuerza",
+    "Vuelo",
+    "Velocidad sobrehumana"
+  ],
+  "aliados": [
+    "Superman",
+    "Batman"
+  ],
+  "enemigos": [
+    "Ares",
+    "Circe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720da9894250f46630a6d48"
+  },
+  "id": 4,
+  "nombreSuperheroe": "La Avispa",
+  "nombreReal": "Janet Van Dyne",
+  "edad": 38,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control mental",
+  "poderes": [
+    "Manipulación de su tamaño corporal",
+    "Rayos de energía eléctrica",
+    "Control telepático"
+  ],
+  "aliados": [
+    "Ironman",
+    "Spiderman",
+    "Ant-Man"
+  ],
+  "enemigos": [
+    "Turbellino"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720da9894250f46630a6d49"
+  },
+  "id": 5,
+  "nombreSuperheroe": "Hulk",
+  "nombreReal": "Bruce Banner",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control mental",
+  "poderes": [
+    "Super fuerza",
+    "Regeneración"
+  ],
+  "aliados": [
+    "Thor",
+    "Ironman"
+  ],
+  "enemigos": [
+    "Abominación"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720da9894250f46630a6d4a"
+  },
+  "id": 6,
+  "nombreSuperheroe": "Nombre del Superhéroe",
+  "poderes": [
+    "Poder 1",
+    "Poder 2"
+  ],
+  "edad": 30,
+  "universo": "Marvel",
+  "planetaOrigen": "Tierra"
+},
+{
+  "_id": {
+    "$oid": "6720da9894250f46630a6d4b"
+  },
+  "id": 7,
+  "nombreSuperheroe": "Nombre del Superhéroe",
+  "poderes": [
+    "Poder 1",
+    "Poder 2"
+  ],
+  "edad": 30,
+  "universo": "Marvel",
+  "planetaOrigen": "Tierra"
+},
+{
+  "_id": {
+    "$oid": "6720da9894250f46630a6d4c"
+  },
+  "id": 8,
+  "nombreSuperheroe": "Nombre del Superhéroe",
+  "poderes": [
+    "Poder 1",
+    "Poder 2"
+  ],
+  "edad": 30,
+  "universo": "Marvel",
+  "planetaOrigen": "Tierra"
+},
+{
+  "_id": {
+    "$oid": "6720da9894250f46630a6d4d"
+  },
+  "id": 9,
+  "nombreSuperheroe": "Serpiente-asesina",
+  "edad": 38,
+  "planetaOrigen": "Tierra"
+},
+{
+  "_id": {
+    "$oid": "6720dd7294250f46630a6d5b"
+  },
+  "nombreSuperheroe": "Otro Superhéroe",
+  "universo": "Marvel",
+  "planetaOrigen": "Tierra",
+  "edad": 30,
+  "poderes": [
+    "invisibilidad",
+    "telepatía"
+  ]
+}]
