@@ -97,35 +97,7 @@
     "$oid": "6720cf6c94250f46630a6d3e"
   },
   "id": 6,
-  "nombreSuperheroe": "Nombre del Superhéroe",
-  "poderes": [
-    "Poder 1",
-    "Poder 2"
-  ],
-  "edad": 30,
-  "universo": "Marvel",
-  "planetaOrigen": "Tierra"
-},
-{
-  "_id": {
-    "$oid": "6720cf6c94250f46630a6d3f"
-  },
-  "id": 7,
-  "nombreSuperheroe": "Nombre del Superhéroe",
-  "poderes": [
-    "Poder 1",
-    "Poder 2"
-  ],
-  "edad": 30,
-  "universo": "Marvel",
-  "planetaOrigen": "Tierra"
-},
-{
-  "_id": {
-    "$oid": "6720cf6c94250f46630a6d40"
-  },
-  "id": 8,
-  "nombreSuperheroe": "Nombre del Superhéroe",
+  "nombreSuperheroe": "Manos de Tijera",
   "poderes": [
     "Poder 1",
     "Poder 2"
@@ -239,20 +211,6 @@
 },
 {
   "_id": {
-    "$oid": "6720da9894250f46630a6d4a"
-  },
-  "id": 6,
-  "nombreSuperheroe": "Nombre del Superhéroe",
-  "poderes": [
-    "Poder 1",
-    "Poder 2"
-  ],
-  "edad": 30,
-  "universo": "Marvel",
-  "planetaOrigen": "Tierra"
-},
-{
-  "_id": {
     "$oid": "6720da9894250f46630a6d4b"
   },
   "id": 7,
@@ -270,7 +228,7 @@
     "$oid": "6720da9894250f46630a6d4c"
   },
   "id": 8,
-  "nombreSuperheroe": "Nombre del Superhéroe",
+  "nombreSuperheroe": "Medusa",
   "poderes": [
     "Poder 1",
     "Poder 2"
